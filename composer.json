@@ -1,0 +1,15 @@
+{
+    "name"       : "tricarte/custom-wp-die-error-page",
+    "description": "Send custom css to wp_die() error page.",
+    "homepage"   : "https://github.com/tricarte/custom-wp-die-error-page",
+    "type"       : "wordpress-muplugin",
+    "license"    : "MIT",
+    "authors"    : [
+        {
+            "name"    : "tricarte"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
