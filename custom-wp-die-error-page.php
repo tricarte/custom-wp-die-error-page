@@ -114,5 +114,5 @@ function wpmu_custom_css_on_wp_die($message, $title = '', $args = array() ) {
            </html>
 
 <?php
-    exit;
+    die();
 }
